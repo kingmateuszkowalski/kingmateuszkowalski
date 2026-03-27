@@ -39,18 +39,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
 
-### 🤖 AI / Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
-![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai)
-
 ### 🗄️ Database & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
@@ -58,17 +46,6 @@
 
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-000000?style=for-the-badge&logo=elasticsearch)
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
-![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure)
-
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub--Actions-000000?style=for-the-badge&logo=github-actions)
-![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins)
 
 ### 🛠️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
