@@ -36,10 +36,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-000000?style=for-the-badge&logo=elasticsearch)
-
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira)
-
 ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest)
 ![Mocha](https://img.shields.io/badge/Mocha-000000?style=for-the-badge&logo=mocha)
 ![PyTest](https://img.shields.io/badge/PyTest-000000?style=for-the-badge&logo=pytest)
