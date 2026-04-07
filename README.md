@@ -1,6 +1,6 @@
 👋 Hi, I'm Mateuszkowalski.
 
-💻 Senior Full Stack Engineer | ⚡ 8+ years
+💻 Senior Full Stack Engineer | ⚡ 9+ years
 
 ### <h2 align="center">🚀 My Skills</h2>
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
